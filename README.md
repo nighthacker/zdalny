@@ -1,1 +1,2 @@
 # zdalny
+#TODO Installation process
